@@ -1,1 +1,10 @@
-{}
+{
+"100kEZ": {
+    "reward": {
+      "currency": "money",
+      "amount": 50000
+    },
+    "active": true,
+    "limitPerPlayer": 1
+  },
+}
