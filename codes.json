@@ -14,5 +14,13 @@
     },
     "active": false,
     "limitPerPlayer": 1
+  },
+"ifYouAreReadingThisHereIsFreeMoney": {
+    "reward": {
+      "currency": "money",
+      "amount": 50000
+    },
+    "active": false,
+    "limitPerPlayer": 1
   }
 }
