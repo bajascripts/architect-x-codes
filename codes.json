@@ -20,7 +20,7 @@
       "currency": "money",
       "amount": 50000
     },
-    "active": false,
+    "active": true,
     "limitPerPlayer": 1
   }
 }
