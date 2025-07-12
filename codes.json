@@ -5,7 +5,8 @@
       "amount": 50000
     },
     "active": true,
-    "limitPerPlayer": 1
+    "limitPerPlayer": 1,
+    "exires": 1752949401
   },
 "500kEZ": {
     "reward": {
