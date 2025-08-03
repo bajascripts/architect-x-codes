@@ -13,7 +13,7 @@
       "currency": "money",
       "amount": 50000
     },
-    "active": true,
+    "active": false,
     "limitPerPlayer": 1
 },
 "500kEZ": {
@@ -21,7 +21,7 @@
       "currency": "money",
       "amount": 50000
     },
-    "active": false,
+    "active": true,
     "limitPerPlayer": 1
   },
 "ifYouAreReadingThisHereIsFreeMoney": {
