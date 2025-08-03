@@ -24,6 +24,14 @@
     "active": true,
     "limitPerPlayer": 1
   },
+"dataSavingSorry": {
+    "reward": {
+      "currency": "money",
+      "amount": 500000
+    },
+    "active": true,
+    "limitPerPlayer": 1
+  },
 "ifYouAreReadingThisHereIsFreeMoney": {
     "reward": {
       "currency": "money",
